@@ -1,0 +1,36 @@
+Finished processing file  ./inputs/001.txt
+Finished processing file  ./inputs/002.txt
+Finished processing file  ./inputs/000.txt
+Finished processing file  ./inputs/003.txt
+Finished processing file  ./inputs/004.txt
+Finished processing file  ./inputs/007.txt
+Finished processing file  ./inputs/006.txt
+Finished processing file  ./inputs/005.txt
+Finished processing file  ./inputs/008.txt
+Finished processing file  ./inputs/009.txt
+Finished processing file  ./inputs/011.txt
+Finished processing file  ./inputs/010.txt
+Finished processing file  ./inputs/013.txt
+Finished processing file  ./inputs/012.txt
+Finished processing file  ./inputs/014.txt
+Finished processing file  ./inputs/015.txt
+Finished processing file  ./inputs/016.txt
+Finished processing file  ./inputs/017.txt
+Finished processing file  ./inputs/019.txt
+Finished processing file  ./inputs/018.txt
+ 
+ 
++------------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES REQUESTED | 
++------------------------------------------+ 
+ 
+mem=1gb,ncpus=4,walltime=00:05:00
+ 
+ 
++-------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES USED | 
++-------------------------------------+ 
+ 
+cpupercent=28,cput=00:00:08,mem=0kb,ncpus=4,vmem=0kb,walltime=00:00:29
+ 
+ 

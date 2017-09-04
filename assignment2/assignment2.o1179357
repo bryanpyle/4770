@@ -1,0 +1,20 @@
+node0208.palmetto.clemson.edu
+node0211.palmetto.clemson.edu
+node0209.palmetto.clemson.edu
+node0212.palmetto.clemson.edu
+ 
+ 
++------------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES REQUESTED | 
++------------------------------------------+ 
+ 
+mem=40gb,ncpus=32,walltime=00:30:00
+ 
+ 
++-------------------------------------+ 
+| PALMETTO CLUSTER PBS RESOURCES USED | 
++-------------------------------------+ 
+ 
+cpupercent=0,cput=00:00:00,mem=7796kb,ncpus=32,vmem=258456kb,walltime=00:00:02
+ 
+ 
