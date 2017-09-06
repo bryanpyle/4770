@@ -1,0 +1,17 @@
+<rspec xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:jacks="http://www.protogeni.net/resources/rspec/ext/jacks/1" xmlns:client="http://www.protogeni.net/resources/rspec/ext/client/1" xmlns:emulab="http://www.protogeni.net/resources/rspec/ext/emulab/1" xmlns="http://www.geni.net/resources/rspec/3" xsi:schemaLocation="http://www.geni.net/resources/rspec/3 http://www.geni.net/resources/rspec/3/request.xsd" type="request">
+  <rspec_tour xmlns="http://www.protogeni.net/resources/rspec/ext/apt-tour/1">
+    <description type="markdown">An example of constructing a profile with two VMs with public IP addresses
+connected by a LAN.</description>
+    <instructions type="markdown">Wait for the profile instance to start, and then log in to either VM via 
+ssh ports specified below.
+</instructions>
+  </rspec_tour>
+  <node client_id="node1" exclusive="false">
+    <sliver_type name="emulab-xen"/>
+    <emulab:routable_control_ip/>
+  </node>
+  <node client_id="node2" exclusive="false">
+    <sliver_type name="emulab-xen"/>
+    <emulab:routable_control_ip/>
+  </node>
+</rspec>
